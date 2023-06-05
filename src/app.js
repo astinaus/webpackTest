@@ -12,5 +12,5 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  document.body.innerHTML = `<img src="${rabbit}" />`;
+  // document.body.innerHTML = `<img src="${rabbit}" />`;
 });
